@@ -7,8 +7,6 @@
 </head>
 <body>
     <h1> E-Book Sharing Application </h1>
-    <h3> An elegant and user-friendly app for reading ebooks </h3>
-    <p>Ebook Sharing Application makes reading easy. Anytime you want, anywhere you might be. 
-    Search, browse, preview and purchase ebooks to read on your devices</p>
+    <h3> User-friendly app for reading ebooks </h3>
 </body>
 </html>
